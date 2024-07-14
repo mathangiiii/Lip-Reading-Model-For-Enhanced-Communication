@@ -99,4 +99,3 @@ We utilize a comprehensive dataset of videos showing various speakers articulati
 ## Contributors
 - **Madhav N**: [madhavnarayanan2004@gmail.com](mailto:madhavnarayanan2004@gmail.com)
 - **Mathangi N**: [mathanginarayanan2004@gmail.com](mailto:mathanginarayanan2004@gmail.com)
-# Lip-Reading-Model-For-Enhanced-Communication
